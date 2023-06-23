@@ -14,5 +14,6 @@
 // Atalhos VScode
  ctrl+k+c = comentario 
  ctrl+alt+n = run (executa o código)
-
+ ALt + Shift + seta para baixo = copiar a linha 
+ 
 */
