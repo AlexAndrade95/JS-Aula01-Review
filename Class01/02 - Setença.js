@@ -9,4 +9,4 @@ console.log('Boa tarde!');
 console.log("Boa noite!")
 
 // Bloco de código
-// Agrupamento de setenças de códigos
+// Agrupamento de setenças de códigos.
