@@ -6,3 +6,7 @@ let area
 
 area = PI * raio * raio
 console.log("O valor da área é: " + area + "m²")
+
+// mais preciso
+area = Math.PI * raio * raio
+console.log("O valor da área é: " + area + "m²")
