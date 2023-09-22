@@ -19,4 +19,4 @@ function novo(f, ...params) {
 const aula3 = novo('Bem vindo', 123)
 const aula4 = novo('Até Breve', 456)
 console.log(aula3, aula4)
-////Aula { nome: 'Bem vindo', videoID: 123 } Aula { nome: 'Até Breve', videoID: 456 }
+//Aula { nome: 'Bem vindo', videoID: 123 } Aula { nome: 'Até Breve', videoID: 456 } 
